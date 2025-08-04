@@ -1,0 +1,6 @@
+{
+  "appId": "com.airwayapp.app",
+  "appName": "Airway App",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
